@@ -22,6 +22,12 @@ For web applications that need to show market liquidity. A TypeScript canvas cha
 
 [Interactive demo](https://rekurt.github.io/depth/demo/) · [Quick start](https://github.com/rekurt/depth#quick-start) · [Install](https://github.com/rekurt/depth#install)
 
+### [matching-engine](https://github.com/rekurt/matching-engine) · Spot order matching
+
+A Rust service for matching spot orders with price-time priority and fixed-point arithmetic. Binary protocol v2, WAL recovery, TLS/mTLS and a Go client, with integration examples in four languages. Account balances and settlement belong to the surrounding platform.
+
+[Project website](https://rekurt.github.io/matching-engine/) · [Handbook](https://rekurt.github.io/matching-engine/docs/) · [Quick start](https://rekurt.github.io/matching-engine/docs/quickstart.html)
+
 ### [dbdiff](https://github.com/rekurt/dbdiff) · Database schema comparison
 
 For developers reviewing schema changes and checking drift in CI. Compare PostgreSQL, MySQL/MariaDB, and SQLite schemas; generate migration SQL for review, with offline comparisons and structured reports.
