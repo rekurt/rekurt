@@ -1,22 +1,14 @@
 # Hi, I'm Nikita
 
-**Fintech engineering & engineering leadership**
+I develop financial software and lead large engineering teams. My experience covers banking and lending platforms, financial-service integrations, trading systems, and algorithmic trading. I also work with blockchain, Web3, and cryptocurrencies, alongside AML, financial forensics, data analysis, and back-office process design.
 
-My work spans fintech software and engineering leadership, with experience across financial systems, digital assets, investigations, and engineering operations.
+My engineering background extends to ballistics and hardware-oriented software: embedded systems, real-time systems, and hardware–software integration. Alongside hands-on development, I manage people and build the processes that help large development teams deliver complex systems.
 
-## Areas of experience
-
-- **Trading:** trading systems, trading bots, and automated trading on financial markets.
-- **Digital assets:** blockchains, Web3, and cryptocurrencies.
-- **Financial services:** lending, banking systems, and integrations with financial services.
-- **Investigation & analytics:** financial forensics, anti-money laundering (AML), and data analysis.
-- **Teams & operations:** people management in large engineering teams and building back-office processes.
+Outside my professional work, I build open-source projects as a hobby. This GitHub profile is a space for personal experiments and independent projects, rather than a portfolio of my professional work.
 
 [Explore all projects](https://rekurt.github.io/projects/)
 
 ## Selected open-source tools & projects
-
-OpenKline and Depth focus on financial visualization. The other projects support development, data workflows, and integrations. I use Rust, Go, and TypeScript across this work.
 
 ### [OpenKline](https://github.com/rekurt/openkline) · Candlestick charts
 
