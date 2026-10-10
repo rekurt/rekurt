@@ -1,10 +1,22 @@
 # Hi, I'm Nikita
 
-I'm an independent developer working with **Rust, Go, and TypeScript**. I build tools for inspecting systems, working with data, and adding charts and integrations to applications.
+**Fintech engineering & engineering leadership**
+
+My work spans fintech software and engineering leadership, with experience across financial systems, digital assets, investigations, and engineering operations.
+
+## Areas of experience
+
+- **Trading:** trading systems, trading bots, and automated trading on financial markets.
+- **Digital assets:** blockchains, Web3, and cryptocurrencies.
+- **Financial services:** lending, banking systems, and integrations with financial services.
+- **Investigation & analytics:** financial forensics, anti-money laundering (AML), and data analysis.
+- **Teams & operations:** people management in large engineering teams and building back-office processes.
 
 [Explore all projects](https://rekurt.github.io/projects/)
 
-## Selected projects
+## Selected open-source tools & projects
+
+OpenKline and Depth focus on financial visualization. The other projects support development, data workflows, and integrations. I use Rust, Go, and TypeScript across this work.
 
 ### [OpenKline](https://github.com/rekurt/openkline) · Candlestick charts
 
