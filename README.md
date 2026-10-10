@@ -1,14 +1,68 @@
 # Hi, I'm Nikita
 
-I build and maintain Rust CLI tools and TypeScript charting projects. I self-fund my open-source work.
+I'm an independent developer working with **Rust, Go, and TypeScript**. I build tools for inspecting systems, working with data, and adding charts and integrations to applications.
 
-| **[prt](https://github.com/rekurt/prt)** | **[OpenKline](https://github.com/rekurt/openkline)** |
-| :--- | :--- |
-| Inspect network ports, processes, and SSH tunnels from your terminal on macOS and Linux. | Candlestick charts, indicators, and drawing tools for the web, with a TypeScript core and React / Vue wrappers. |
-| [See the demo](https://github.com/rekurt/prt#demo) · [Start contributing](https://github.com/rekurt/prt/blob/master/CONTRIBUTING.md) | [Try the playground](https://rekurt.github.io/openkline/) · [Read the source](https://github.com/rekurt/openkline) |
+[Explore all projects](https://rekurt.github.io/projects/)
 
-[![prt terminal demo: connections, process details, topology, and contextual actions](https://raw.githubusercontent.com/rekurt/prt/master/docs/prt.gif)](https://github.com/rekurt/prt)
+## Selected projects
 
-[Static demo preview](https://github.com/rekurt/prt/blob/master/docs/prt-demo.png) · [Demo transcript](https://github.com/rekurt/prt/blob/master/docs/demo-transcript.md) · [All projects](https://rekurt.github.io/projects/)
+### [OpenKline](https://github.com/rekurt/openkline) · Candlestick charts
 
-Want to contribute? Start with [small tasks in prt](https://github.com/rekurt/prt/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22).
+For developers building trading interfaces and market dashboards. Interactive price charts with indicators and drawing tools, powered by a framework-independent TypeScript core with React and Vue wrappers.
+
+[Playground](https://rekurt.github.io/openkline/) · [API reference](https://rekurt.github.io/openkline/api/) · [Install](https://github.com/rekurt/openkline#install)
+
+### [Depth](https://github.com/rekurt/depth) · Order-book visualization
+
+For web applications that need to show market liquidity. A TypeScript canvas chart with cumulative depth, spread metrics, and dark and light themes.
+
+[Interactive demo](https://rekurt.github.io/depth/demo/) · [Quick start](https://github.com/rekurt/depth#quick-start) · [Install](https://github.com/rekurt/depth#install)
+
+### [dbdiff](https://github.com/rekurt/dbdiff) · Database schema comparison
+
+For developers reviewing schema changes and checking drift in CI. Compare PostgreSQL, MySQL/MariaDB, and SQLite schemas; generate migration SQL for review, with offline comparisons and structured reports.
+
+[Offline demo](https://github.com/rekurt/dbdiff#try-the-demo) · [CLI guide](https://github.com/rekurt/dbdiff/blob/master/doc/cli.md) · [Install](https://github.com/rekurt/dbdiff#install)
+
+### [GitLab Dump](https://github.com/rekurt/gitlab-downloader) · Repository transfers
+
+For teams moving repositories between GitLab instances. Clone groups and plan transfers through a CLI or desktop app, with previews, reports, and explicit handling of conflicts.
+
+[CLI guide](https://github.com/rekurt/gitlab-downloader#cli) · [Transfer limits](https://github.com/rekurt/gitlab-downloader#direct-transfer-compatibility) · [Install](https://github.com/rekurt/gitlab-downloader#install-from-npm)
+
+### [ymsdk](https://github.com/rekurt/ymsdk) · Yandex Messenger bots in Go
+
+For Go developers building bots and messaging integrations. Typed API clients, configurable retries, polling, and webhooks, with examples for messages, polls, and incoming updates.
+
+[English guide](https://github.com/rekurt/ymsdk/blob/master/README.en.md) · [API reference](https://pkg.go.dev/github.com/rekurt/ymsdk) · [Install](https://github.com/rekurt/ymsdk/blob/master/README.en.md#installation)
+
+### [prt](https://github.com/rekurt/prt) · Network inspection in the terminal
+
+For developers and administrators investigating local connections on macOS and Linux. Find port conflicts, inspect processes, and manage SSH tunnels from a keyboard-driven terminal interface.
+
+[Demo](https://github.com/rekurt/prt#demo) · [Usage](https://github.com/rekurt/prt#command-line-modes) · [Install](https://github.com/rekurt/prt#install-and-run)
+
+<details>
+<summary>See project previews</summary>
+
+**OpenKline** — playground with synthetic demo candles.
+
+[![OpenKline playground showing candlesticks, an SMA overlay, and volume bars](https://raw.githubusercontent.com/rekurt/openkline/master/docs/images/playground-candles.png)](https://rekurt.github.io/openkline/)
+
+**Depth** — order-book depth chart.
+
+[![Depth canvas chart showing bid and ask liquidity in a dark theme](https://raw.githubusercontent.com/rekurt/depth/master/docs/assets/pro-dark-terminal.png)](https://rekurt.github.io/depth/demo/)
+
+**dbdiff** — output from the offline schema comparison demo.
+
+[![dbdiff terminal output showing schema changes and CI exit codes](https://raw.githubusercontent.com/rekurt/dbdiff/master/doc/assets/demo.png)](https://github.com/rekurt/dbdiff#try-the-demo)
+
+**prt** — terminal connection inspector.
+
+[![prt terminal interface with connections and process details](https://raw.githubusercontent.com/rekurt/prt/master/docs/prt-demo.png)](https://github.com/rekurt/prt#demo)
+
+</details>
+
+---
+
+Found something useful? Try the demo or installation guide. Bug reports, focused pull requests, and documentation improvements are welcome in each project's repository.
