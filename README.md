@@ -10,6 +10,12 @@ Outside my professional work, I build open-source projects as a hobby. This GitH
 
 ## Selected open-source tools & projects
 
+### [CortexForge](https://github.com/rekurt/cortex-forge) · Multi-tenant Hermes Agent platform
+
+For engineering teams running isolated AI assistants across an organization. Deploy from 1 to 1,000+ isolated [NousResearch Hermes Agent](https://github.com/NousResearch/hermes-agent) containers on Docker Compose with zero API key exposure, real-time SSE streaming token quotas, and an inter-agent SQLite WAL message broker.
+
+[Project website](https://rekurt.github.io/cortex-forge/) · [1,000-User Enterprise guide](https://github.com/rekurt/cortex-forge/blob/master/docs/ENTERPRISE_1000_USERS.md) · [10-second demo](https://github.com/rekurt/cortex-forge#-try-it-in-10-seconds-zero-docker--zero-api-keys-needed)
+
 ### [OpenKline](https://github.com/rekurt/openkline) · Candlestick charts
 
 For developers building trading interfaces and market dashboards. Interactive price charts with indicators and drawing tools, powered by a framework-independent TypeScript core with React and Vue wrappers.
